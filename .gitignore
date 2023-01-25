@@ -1,4 +1,4 @@
-.ipunb_checkpoints/
-__pychache__/
+.ipynb_checkpoints/
+__pycache__/
 .vscode/
 myprojectenv/
