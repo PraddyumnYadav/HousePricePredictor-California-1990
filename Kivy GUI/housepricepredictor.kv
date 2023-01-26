@@ -1,0 +1,102 @@
+MainWidget:
+
+<Label>
+    font_size: 20
+
+<TextInput>
+    font_size: 20
+
+<MainWidget>
+    BoxLayout:
+        size: root.size
+        orientation: "vertical"
+
+        Label:
+            text: "Welcome to California Housing Price Predictor!!"
+            font_size: 25
+            color: 1, 0, 0, 1
+
+        GridLayout:
+            cols: 2
+            Label:
+                text:"Longitude"
+            TextInput:
+                id: Longitude
+                multiline: False
+
+        GridLayout:
+            cols: 2
+            Label:
+                text:"Latitude"
+            TextInput:
+                id: Latitude
+                multiline: False
+
+        GridLayout:
+            cols: 2
+            Label:
+                text:"Age"
+            TextInput:
+                id: Age
+                multiline: False
+
+        GridLayout:
+            cols: 2
+            Label:
+                text:"Total Rooms"
+            TextInput:
+                id: total_rooms
+                multiline: False
+
+        GridLayout:
+            cols: 2
+            Label:
+                text:"Total Bedrooms"
+            TextInput:
+                id: total_bedrooms
+                multiline: False
+
+        GridLayout:
+            cols: 2
+            Label:
+                text:"Population"
+            TextInput:
+                id: population
+                multiline: False
+
+        GridLayout:
+            cols: 2
+            Label:
+                text:"HouseHolds"
+            TextInput:
+                id: households
+                multiline: False
+
+        GridLayout:
+            cols: 2
+            Label:
+                text:"Income"
+            TextInput:
+                id: income
+                multiline: False
+
+        GridLayout:
+            cols: 2
+            Label:
+                text:"Ocean proximity"
+            TextInput:
+                id: ocean_proximity
+                multiline: False
+
+        Label:
+            text: "Prediction = ?"
+            id: Prediction
+            color: 1, 0, 0, 1
+
+        GridLayout:
+            cols: 3
+            Label:
+            Button:
+                text:"Predict"
+                on_release: root.predict_button_function()
+            Label:
