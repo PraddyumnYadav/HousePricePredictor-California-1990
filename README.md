@@ -1,6 +1,7 @@
 # HousePricePredictor-California-1990
-A Machine Learning Model for Predicting Price of House from California Census 1990
+- A Machine Learning Model for Predicting Price of House from California Census 1990
 - **This Machine Learning Model is Derived From Hands on ML Book by Aurelien Geron.**
+- Your Python Version Should Be Between python3.7 andpython 3.10 because kivy don't Supports python3.11
 ## Description about Model
 - This is a Machine Learning Model that can Predict Prices of House Which are at California.
 - The Price Predicted By This Model is according to Census of 1990.
