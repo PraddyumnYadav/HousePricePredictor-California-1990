@@ -23,5 +23,5 @@
 # Conclusion
 If You Notice any Bugs in our Code or You Think That you Can Make This Code a Little Bit Better Than Don't Hesistate You Can Do Two Things in That Case
 - First Thing is That You Can Raise an Issue.
-- Second Thing is That You Can Raise a Pull Request I Will be Very Happy to See Your Code and if it is Good Than i Will Definetly Add it to My Main Repository.
+- Second Thing is That You Can Open a Pull Request I Will be Very Happy to See Your Code and if it is Good Than i Will Definetly Add it to My Main Repository.
 ### Thank You
