@@ -43,12 +43,10 @@ pip install -r requirements.txt
 - if i Give The data into request_prediction() function it first executes the pipeline in which my data is transformed in many ways and then it is feeded to the machine learning model and output is returned.
 - Then its Returned Information is Presented as Prediction in our next Page Using Django.
 ## Description about Tkinter GUI
-- I have Used Python-Tkinter FrameWork in this Project.
+- I have Used Python-Tkinter and Python-Kivy FrameWork in this Project.
 - Here i used the same .pkl file in this Project.
 - I have also used The same model.py file.
 - I Have Taken all inputs in form of string then converted it in float then feed it to Machine Learning Model.
-## Description about Kivy GUI
-- It Works as Same As Tkinter FrameWork.
 # Conclusion
 If You Notice any Bugs in our Code or You Think That you Can Make This Code a Little Bit Better Than Don't Hesistate You Can Do Two Things in That Case
 - First Thing is That You Can Raise an Issue.
