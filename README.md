@@ -42,7 +42,7 @@ pip install -r requirements.txt
 - I Have Created a model.py file in which i have the pipeline and a function name request_prediction().
 - if i Give The data into request_prediction() function it first executes the pipeline in which my data is transformed in many ways and then it is feeded to the machine learning model and output is returned.
 - Then its Returned Information is Presented as Prediction in our next Page Using Django.
-## Description about Tkinter GUI
+## Description about GUI
 - I have Used Python-Tkinter and Python-Kivy FrameWork in this Project.
 - Here i used the same .pkl file in this Project.
 - I have also used The same model.py file.
