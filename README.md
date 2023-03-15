@@ -2,11 +2,12 @@
 - A Machine Learning Model for Predicting Price of House from California Census 1990
 - **This Machine Learning Model is Derived From Hands on ML Book by Aurelien Geron.**
 - Your Python Version Should Be Between python3.7 andpython 3.10 because kivy don't Supports python3.11
-## How to Get This on Your System
-- Clone the Repository.
+## How to Get This Running on Your System
+- Clone the Repository Using SSH. or
 ```
 git clone git@github.com:PraddyumnYadav/HousePricePredictor-California-1990.git
 ```
+- Clone the Repository Using HTTPS.
 ```
 git clone https://github.com/PraddyumnYadav/HousePricePredictor-California-1990.git
 ```
