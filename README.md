@@ -13,9 +13,9 @@
 - I Have Created a model.py file in which i have the pipeline and a function name request_prediction().
 - if i Give The data into request_prediction() function it first executes the pipeline in which my data is transformed in many ways and then it is feeded to the machine learning model and output is returned.
 - Then its Returned Information is Presented as Prediction in our next Page Using Django.
-## Description about GUI
-- I have Used Python-Tkinter and Python-Kivy FrameWork in this Project.
-- Here i used the same .pkl file in this Project.
+## Description about GUI's
+- I have Used `Python-Tkinter` and `Python-Kivy` FrameWork in this Project.
+- Here i used the same `.pkl` file in this Project.
 - I have also used The same model.py file.
 - I Have Taken all inputs in form of string then converted it in float then feed it to Machine Learning Model.
 ## How to Get This Running on Your System
